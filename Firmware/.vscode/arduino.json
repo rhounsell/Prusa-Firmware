@@ -1,0 +1,6 @@
+{
+    "board": "PrusaResearchRambo:avr:rambo",
+    "sketch": "Firmware.ino",
+    "output": "../Build",
+    "port": "COM4"
+}
